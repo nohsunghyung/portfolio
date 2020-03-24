@@ -1,5 +1,8 @@
-# my-project
+# Portfolio
+
 > 현재까지 작업한 퍼블리싱(마크업) 프로젝트 리스트 입니다.(최신순으로 정렬)
+
+`stack - HTML5 / CSS3 / Sass / jquery / javascript / Gulp `
 
 ## 미샤(눙크) - PC/MO
 
