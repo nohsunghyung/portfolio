@@ -14,7 +14,7 @@
 
 **`[담당]`**
 
-- 마크업 PL역활
+- 마크업 PL역할
 - 프로젝트 초기 셋팅 및 공통요소작업/마크업 작업
 - 스크립트 개발
 
@@ -69,7 +69,7 @@ http://demers.co.kr/
 
 ## 셀트리온 한스킨 - PC/MO
 
-<img src="./images/hanskin.jpg" width="1000" height="400" alt="hanskin">
+<img src="./images/hanskin.jpg" width="1000" height="500" alt="hanskin">
 
 https://www.hanskin.com/main
 
@@ -101,7 +101,7 @@ https://www.kcar.com/index.do(현재 리뉴얼)
 
 ## 대한부인비뇨과학회 - PC
 
-<img src="./images/science.jpg" width="1000" height="400" alt="science">
+<img src="./images/science.jpg" width="1000" height="500" alt="science">
 
 **`[프로젝트 기간]`**
 
@@ -125,7 +125,7 @@ https://www.kcar.com/index.do(현재 리뉴얼)
 
 ## 전국 동시 지방선거 - PC/MO
 
-<img src="./images/election.jpg" width="1000" height="400" alt="election">
+<img src="./images/election.jpg" width="1000" height="500" alt="election">
 
 **`[프로젝트 기간]`**
 
