@@ -23,6 +23,8 @@
 
 <img src="./images/howhome.jpg" width="1000" height="500" alt="하우홈몰">
 
+https://www.howhomemall.com/main
+
 **`[프로젝트 기간]`**
 
 2019년 7월 ~ 2020년 10월
@@ -36,6 +38,8 @@
 ## AK뷰티 - PC/MO
 
 <img src="./images/ak.jpg" width="1000" height="400" alt="ak">
+
+https://www.akbeauty.co.kr/
 
 **`[프로젝트 기간]`**
 
@@ -51,6 +55,8 @@
 
 <img src="./images/demers.jpg" width="1000" height="400" alt="demers">
 
+http://demers.co.kr/
+
 **`[프로젝트 기간]`**
 
 2019년 2월 ~ 2020년 03월
@@ -65,6 +71,8 @@
 
 <img src="./images/hanskin.jpg" width="1000" height="400" alt="hanskin">
 
+https://www.hanskin.com/main
+
 **`[프로젝트 기간]`**
 
 2018년 11월 ~ 2019년 02월
@@ -78,6 +86,8 @@
 ## K CAR(SK엔카) - PC/MO
 
 <img src="./images/kcar.jpg" width="1000" height="500" alt="kcar">
+
+https://www.kcar.com/index.do(현재 리뉴얼)
 
 **`[프로젝트 기간]`**
 
