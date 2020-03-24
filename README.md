@@ -3,7 +3,7 @@
 
 ## 미샤(눙크) - PC/MO
 
-이미지첨부
+<img src="./images/missha.jpg" width="1000" height="500" alt="미샤">
 
 **`[프로젝트 기간]`**
 
@@ -18,7 +18,7 @@
 
 ## 하우홈몰(노루표페인트) - PC/MO
 
-이미지첨부
+<img src="./images/howhome.jpg" width="1000" height="500" alt="하우홈몰">
 
 **`[프로젝트 기간]`**
 
@@ -32,7 +32,7 @@
 
 ## AK뷰티 - PC/MO
 
-이미지첨부
+<img src="./images/ak.jpg" width="1000" height="400" alt="ak">
 
 **`[프로젝트 기간]`**
 
@@ -46,7 +46,7 @@
 
 ## 디머스 - 반응형
 
-이미지첨부
+<img src="./images/demers.jpg" width="1000" height="400" alt="demers">
 
 **`[프로젝트 기간]`**
 
@@ -60,7 +60,7 @@
 
 ## 셀트리온 한스킨 - PC/MO
 
-이미지첨부
+<img src="./images/hanskin.jpg" width="1000" height="400" alt="hanskin">
 
 **`[프로젝트 기간]`**
 
@@ -74,7 +74,7 @@
 
 ## K CAR(SK엔카) - PC/MO
 
-이미지첨부
+<img src="./images/kcar.jpg" width="1000" height="500" alt="kcar">
 
 **`[프로젝트 기간]`**
 
@@ -88,7 +88,7 @@
 
 ## 대한부인비뇨과학회 - PC
 
-이미지첨부
+<img src="./images/science.jpg" width="1000" height="400" alt="science">
 
 **`[프로젝트 기간]`**
 
@@ -101,8 +101,6 @@
 
 ## GS리테일
 
-이미지첨부
-
 **`[프로젝트 기간]`**
 
 2018년 04월 ~ 2018년 05월
@@ -114,7 +112,7 @@
 
 ## 전국 동시 지방선거 - PC/MO
 
-이미지첨부
+<img src="./images/election.jpg" width="1000" height="400" alt="election">
 
 **`[프로젝트 기간]`**
 
@@ -128,7 +126,7 @@
 
 ## 듀오이벤트
 
-이미지첨부
+<img src="./images/duo.jpg" width="1000" height="500" alt="duo">
 
 **`[프로젝트 기간]`**
 
