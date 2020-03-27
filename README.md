@@ -1,9 +1,9 @@
 # Portfolio
 
 
-## - 개인 프로젝트
+## [개인 프로젝트]
 
-### Vue.js 학습 노트 애플리케이션 
+### 1. Vue.js 학습 노트 애플리케이션 
 
 > REST API를 이용한 CRUD 기능 학습 노트
 
@@ -15,7 +15,7 @@ url - https://github.com/nohsunghyung/vue-learning-note
 * skils - Vue.js / Vue Router / Vuex / Axios / javascript
 
 
-### Vue.js Hacker News
+### 2. Vue.js Hacker News
 
 > REST API를 이용한 hacker news입니다.
 
@@ -26,8 +26,17 @@ url - https://github.com/nohsunghyung/vue-hacker-news
 
 * skils - Vue.js / Vue Router / Vuex / Axios /javascript
 
+### 3. Vue.js portfolio
 
-## - 기업 프로젝트
+> Vue.js를 이용한 포트폴리오 입니다.
+
+url - https://github.com/nohsunghyung/noh-portfolio
+
+
+* skils - Vue.js / Vue Router / javascript
+
+
+## [기업 프로젝트]
 
 > 현재까지 작업한 퍼블리싱(마크업) 프로젝트 리스트 입니다.(최신순으로 정렬)
 
@@ -181,38 +190,4 @@ https://www.kcar.com/index.do(현재 리뉴얼)
 
 #### 2018년 이전 프로젝트는 프로젝트명만 기재
 
-- 라투인
-- 다이아페스티벌
-- 산학협력엑스포 2017
-- 스카이엔트테인먼트
-- 삼다리치킨
-- 아시아송페스티벌 2017
-- 동원 리챔이벤트
-- 수도대기환경청(pc)
-- 메이크업유얼하우스(반응형)
-- 김봉곤의 청학동예절학교(pc,모바일)
-- 모델리아(pc)
-- 풍진식품기계(반응형)
-- 동원쿡담이벤트(pc)
-- 아름드리에스테틱(pc)
-- VIP동물의료센터(pc,모바일) 
-- 케이앤비 쇼핑몰(반응형)
-- 더홀릭스 AMES(pc)
-- 더홀릭스 IPDC(pc)
-- 동원이벤트(반응형)
-- 크리샤츄(pc,모바일)
-- 한국식품영양과학회(모바일)
-- 선농(반응형)
-- 프런티어스쿨(모바일)
-- 한국파이프라인(pc)
-- 포나인(pc,모바일)
-- 영일제약(pc)
-- 키맥스(pc)
-- 와겐커피(pc)
-- 세진이앤이(pc)
-- 대왕카스테라(pc)
-- 더라인MNC(pc)
-- 디딤커뮤니케이션(pc)
-- 지아이기계기술(pc)
-- 국제저작권기술컨퍼런스(pc)
-- MCD(pc)
+라투인 / 다이아페스티벌 / 산학협력엑스포 2017 / 스카이엔트테인먼트 / 삼다리치킨 / 아시아송페스티벌 2017 / 동원 리챔이벤트 / 수도대기환경청(pc) / 메이크업유얼하우스(반응형) / 김봉곤의 청학동예절학교(pc,모바일) / 모델리아(pc) / 풍진식품기계(반응형) / 동원쿡담이벤트(pc) / 아름드리에스테틱(pc) / VIP동물의료센터(pc,모바일) / 케이앤비 쇼핑몰(반응형) / 더홀릭스 AMES(pc) / 더홀릭스 IPDC(pc) / 동원이벤트(반응형) / 크리샤츄(pc,모바일) / 한국식품영양과학회(모바일) / 선농(반응형) / 프런티어스쿨(모바일) / 한국파이프라인(pc) / 포나인(pc,모바일) / 영일제약(pc) / 키맥스(pc) / 와겐커피(pc) / 세진이앤이(pc) / 대왕카스테라(pc) / 더라인MNC(pc) / 디딤커뮤니케이션(pc) / 지아이기계기술(pc) / 국제저작권기술컨퍼런스(pc) / MCD(pc )
