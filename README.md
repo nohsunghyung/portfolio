@@ -1,10 +1,39 @@
 # Portfolio
 
+
+## - 개인 프로젝트
+
+### Vue.js 학습 노트 애플리케이션 
+
+> REST API를 이용한 CRUD 기능 학습 노트
+
+<img src="./images/note.gif" width="1000" height="400" alt="">
+
+
+url - https://github.com/nohsunghyung/vue-learning-note
+
+* skils - Vue.js / Vue Router / Vuex / Axios / javascript
+
+
+### Vue.js Hacker News
+
+> REST API를 이용한 hacker news입니다.
+
+<img src="./images/hacker.gif" width="1000" height="400" alt="">
+
+url - https://github.com/nohsunghyung/vue-hacker-news
+
+
+* skils - Vue.js / Vue Router / Vuex / Axios /javascript
+
+
+## - 기업 프로젝트
+
 > 현재까지 작업한 퍼블리싱(마크업) 프로젝트 리스트 입니다.(최신순으로 정렬)
 
 `stack - HTML5 / CSS3 / Sass / jquery / javascript / Gulp `
 
-## 미샤(눙크) - PC/MO
+### 미샤(눙크) - PC/MO
 
 <img src="./images/missha.jpg" width="1000" height="500" alt="미샤">
 
@@ -19,7 +48,7 @@
 - 스크립트 개발
 
 
-## 하우홈몰(노루표페인트) - PC/MO
+### 하우홈몰(노루표페인트) - PC/MO
 
 <img src="./images/howhome.jpg" width="1000" height="500" alt="하우홈몰">
 
@@ -35,7 +64,7 @@ https://www.howhomemall.com/main
 - 스크립트 개발
 
 
-## AK뷰티 - PC/MO
+### AK뷰티 - PC/MO
 
 <img src="./images/ak.jpg" width="1000" height="400" alt="ak">
 
@@ -51,7 +80,7 @@ https://www.akbeauty.co.kr/
 - 스크립트 개발
 
 
-## 디머스 - 반응형
+### 디머스 - 반응형
 
 <img src="./images/demers.jpg" width="1000" height="400" alt="demers">
 
@@ -67,7 +96,7 @@ http://demers.co.kr/
 - 스크립트 개발
 
 
-## 셀트리온 한스킨 - PC/MO
+### 셀트리온 한스킨 - PC/MO
 
 <img src="./images/hanskin.jpg" width="1000" height="500" alt="hanskin">
 
@@ -83,7 +112,7 @@ https://www.hanskin.com/main
 - 스크립트 개발
 
 
-## K CAR(SK엔카) - PC/MO
+### K CAR(SK엔카) - PC/MO
 
 <img src="./images/kcar.jpg" width="1000" height="500" alt="kcar">
 
@@ -99,7 +128,7 @@ https://www.kcar.com/index.do(현재 리뉴얼)
 - 스크립트 개발
 
 
-## 대한부인비뇨과학회 - PC
+### 대한부인비뇨과학회 - PC
 
 <img src="./images/science.jpg" width="1000" height="500" alt="science">
 
@@ -112,7 +141,7 @@ https://www.kcar.com/index.do(현재 리뉴얼)
 - PC/퍼블리싱 작업
 
 
-## GS리테일
+### GS리테일
 
 **`[프로젝트 기간]`**
 
@@ -123,7 +152,7 @@ https://www.kcar.com/index.do(현재 리뉴얼)
 - 넥사크로를 이용한 퍼블리싱 작업
 
 
-## 전국 동시 지방선거 - PC/MO
+### 전국 동시 지방선거 - PC/MO
 
 <img src="./images/election.jpg" width="1000" height="500" alt="election">
 
@@ -137,7 +166,7 @@ https://www.kcar.com/index.do(현재 리뉴얼)
 - 스크립트 개발
 
 
-## 듀오이벤트
+### 듀오이벤트
 
 <img src="./images/duo.jpg" width="1000" height="500" alt="duo">
 
@@ -150,7 +179,7 @@ https://www.kcar.com/index.do(현재 리뉴얼)
 - 랜딩페이지 퍼블리싱개발
 
 
-### 2018년 이전 프로젝트는 프로젝트명만 기재
+#### 2018년 이전 프로젝트는 프로젝트명만 기재
 
 - 라투인
 - 다이아페스티벌
