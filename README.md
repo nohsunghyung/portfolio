@@ -5,7 +5,7 @@
 
 ### 1. Vue.js 학습 노트 애플리케이션 
 
-> REST API를 이용한 CRUD 기능 학습 노트
+> Axios를 이용한 REST API 기반의 CRUD 학습노트 애플리케이션
 
 <img src="./images/note.gif" width="1000" height="400" alt="">
 
@@ -17,7 +17,7 @@ url - https://github.com/nohsunghyung/vue-learning-note
 
 ### 2. Vue.js Hacker News
 
-> REST API를 이용한 hacker news입니다.
+> Axios를 이용한 API호출로 제작된 Hacker New
 
 <img src="./images/hacker.gif" width="1000" height="400" alt="">
 
@@ -28,7 +28,7 @@ url - https://github.com/nohsunghyung/vue-hacker-news
 
 ### 3. Vue.js portfolio
 
-> Vue.js를 이용한 포트폴리오 입니다.
+> Vue.js로 만든 포트폴리오 및 이력서
 
 url - https://github.com/nohsunghyung/noh-portfolio
 
