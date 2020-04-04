@@ -3,7 +3,7 @@
 
 ## [개인 프로젝트]
 
-### 1. Vue.js 학습 노트 애플리케이션 
+### 1. Vue - 학습 노트 애플리케이션 
 
 > Axios를 이용한 REST API 기반의 CRUD 학습노트 애플리케이션
 
@@ -15,7 +15,7 @@ url - https://github.com/nohsunghyung/vue-learning-note
 * skils - Vue.js / Vue Router / Vuex / Axios / javascript
 
 
-### 2. Vue.js Hacker News
+### 2. Vue - Hacker News
 
 > Axios를 이용한 API호출로 제작된 Hacker New
 
@@ -26,7 +26,7 @@ url - https://github.com/nohsunghyung/vue-hacker-news
 
 * skils - Vue.js / Vue Router / Vuex / Axios /javascript
 
-### 3. Vue.js portfolio
+### 3. Vue - portfolio
 
 > Vue.js로 만든 포트폴리오 및 이력서
 
@@ -34,6 +34,14 @@ url - https://github.com/nohsunghyung/noh-portfolio
 
 
 * skils - Vue.js / Vue Router / javascript
+
+### 4. Vue - Todo리스트
+
+> 검색필터 기능의 Todo리스트
+
+<img src="./images/todo.gif" width="100%;" height="500px;">
+
+* skils - Vue.js / Vuex / javascript
 
 
 ## [기업 프로젝트]
