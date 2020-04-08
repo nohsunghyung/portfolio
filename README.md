@@ -54,6 +54,8 @@ url - https://github.com/nohsunghyung/noh-portfolio
 
 <img src="./images/missha.jpg" width="1000" height="500" alt="미샤">
 
+https://www.mynunc.com/main
+
 **`[프로젝트 기간]`**
 
 2019년 11월 ~ 2020년 4월
